@@ -1,0 +1,12 @@
+syntax = "proto3";
+package singhhp1069.spunky.spunky;
+
+// this line is used by starport scaffolding # genesis/proto/import
+
+option go_package = "github.com/singhhp1069/spunky/x/spunky/types";
+
+// GenesisState defines the spunky module's genesis state.
+message GenesisState {
+    // this line is used by starport scaffolding # genesis/proto/state
+    // this line is used by starport scaffolding # ibc/genesis/proto
+}
